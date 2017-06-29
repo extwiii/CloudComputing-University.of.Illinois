@@ -3,6 +3,8 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 1 - Cloud Computing Concepts, Part 1
 
+## Course 2 - Cloud Computing Concepts, Part 2
+
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
 #### Ankit Singla - Assistant Professor
