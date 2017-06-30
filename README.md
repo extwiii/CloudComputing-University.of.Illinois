@@ -5,6 +5,8 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 2 - Cloud Computing Concepts, Part 2
 
+## Course 3 - Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
+
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
 #### Ankit Singla - Assistant Professor
