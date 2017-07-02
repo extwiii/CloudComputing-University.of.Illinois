@@ -1,11 +1,13 @@
 # CloudComputing-University.of.Illinois
 Clouds, Distributed Systems, Networking. Learn about and build distributed and networked systems for clouds and big data - University of Illinois at Urbana-Champaign - Coursera
 
-## Course 1 - Cloud Computing Concepts, Part 1
+## Course 1 - Cloud Computing Concepts 1
 
-## Course 2 - Cloud Computing Concepts, Part 2
+## Course 2 - Cloud Computing Concepts 2
 
-## Course 3 - Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure
+## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
+
+## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
