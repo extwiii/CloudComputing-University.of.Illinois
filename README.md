@@ -4,6 +4,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 ## Course 1 - Cloud Computing Concepts 1
 * Week 1: Orientation, Introduction to Clouds, MapReduce
 * Week 2: Gossip, Membership, and Grids 
+* Week 3: P2P Systems
 
 ## Course 2 - Cloud Computing Concepts 2
 
