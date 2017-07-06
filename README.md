@@ -6,6 +6,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Gossip, Membership, and Grids 
 * Week 3: P2P Systems
 * Week 4: Key-value stores, and Time and Ordering 
+* Week 5: Classical Distributed Algorithms 
 
 ## Course 2 - Cloud Computing Concepts 2
 
