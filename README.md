@@ -2,8 +2,7 @@
 Clouds, Distributed Systems, Networking. Learn about and build distributed and networked systems for clouds and big data - University of Illinois at Urbana-Champaign - Coursera
 
 ## Course 1 - Cloud Computing Concepts 1
-* Week 1: Orientation, Introduction to Clouds, MapReduce
-  * Clouds, MapReduce
+* Week 1: Orientation, Introduction to Clouds, MapReduce [[Apache Hadoop documentation](http://hadoop.apache.org/)]
 * Week 2: Gossip, Membership, and Grids 
 * Week 3: P2P Systems
 * Week 4: Key-value stores, and Time and Ordering 
