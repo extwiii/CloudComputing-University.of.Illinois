@@ -3,8 +3,8 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 1 - Cloud Computing Concepts 1
 * Week 1: Orientation, Introduction to Clouds, MapReduce [[Apache Hadoop documentation](http://hadoop.apache.org/)]
-* Week 2: Gossip, Membership, and Grids [[Gossip-style FD](http://dl.acm.org/citation.cfm?id=1659238)][[SWIM](http://ieeexplore.ieee.org/document/1028914/?reload=true&arnumber=1028914)]
-* Week 3: P2P Systems
+* Week 2: Gossip, Membership, and Grids [[Gossip-style FD](http://dl.acm.org/citation.cfm?id=1659238)] [[SWIM](http://ieeexplore.ieee.org/document/1028914/?reload=true&arnumber=1028914)]
+* Week 3: P2P Systems [[Gnutella v 0.4 paper](https://courses.engr.illinois.edu/cs425/fa2014/gnutella_protocol_0.4.pdf)] [[Chord paper](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)]
 * Week 4: Key-value stores, and Time and Ordering 
 * Week 5: Classical Distributed Algorithms 
 
