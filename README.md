@@ -6,7 +6,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Gossip, Membership, and Grids [[Gossip-style FD](http://dl.acm.org/citation.cfm?id=1659238)] [[SWIM](http://ieeexplore.ieee.org/document/1028914/?reload=true&arnumber=1028914)]
 * Week 3: P2P Systems [[Gnutella v 0.4 paper](https://courses.engr.illinois.edu/cs425/fa2014/gnutella_protocol_0.4.pdf)] [[Chord paper](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)]
 * Week 4: Key-value stores, and Time and Ordering [[Cassandra](http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/gettingStartedCassandraIntro.html)] [[HBase](http://hbase.apache.org/)] [[Cassandra 2.0 paper](http://docs.datastax.com/en/articles/cassandra/cassandrathenandnow.html)] [[Cassandra NoSQL Presentation](https://www.slideshare.net/Eweaver/cassandra-presentation-at-nosql)] [[Cassandra 1.0 documentation at datastax.com](http://docs.datastax.com/en/archived/cassandra/1.0/docs/)] [[Cassandra Apache wiki](https://wiki.apache.org/cassandra/ArchitectureOverview)] [[MongoDB](https://www.mongodb.com/)]
-* Week 5: Classical Distributed Algorithms 
+* Week 5: Classical Distributed Algorithms [[Google Chubby](https://research.google.com/archive/chubby.html)] [[Apache Zookeeper](http://zookeeper.apache.org/)]
 
 ## Course 2 - Cloud Computing Concepts 2
 
