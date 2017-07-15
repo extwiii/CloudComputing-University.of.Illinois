@@ -10,7 +10,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 2 - Cloud Computing Concepts 2
 * Week 1: Course Orientation and Classical Distributed Algorithms Continued
-*
+* Week 2: Concurrency and Replication Control
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
 
