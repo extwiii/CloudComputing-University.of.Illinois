@@ -13,6 +13,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Concurrency and Replication Control
 * Week 3: Emerging Paradigms
 * Week 4: Classical Systems
+* Week 5: Real-Life Behaviors
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
 
