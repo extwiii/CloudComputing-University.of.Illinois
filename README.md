@@ -9,7 +9,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 5: Classical Distributed Algorithms [[Google Chubby](https://research.google.com/archive/chubby.html)] [[Apache Zookeeper](http://zookeeper.apache.org/)]
 
 ## Course 2 - Cloud Computing Concepts 2
-* Week 1: Course Orientation and Classical Distributed Algorithms Continued
+* Week 1: Course Orientation and Classical Distributed Algorithms Continued [[AWS Training Videos](https://aws.amazon.com/training/intro_series/)]
 * Week 2: Concurrency and Replication Control
 * Week 3: Emerging Paradigms
 * Week 4: Classical Systems
