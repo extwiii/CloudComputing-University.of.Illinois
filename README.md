@@ -11,7 +11,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 ## Course 2 - Cloud Computing Concepts 2
 * Week 1: Course Orientation and Classical Distributed Algorithms Continued [[AWS Training Videos](https://aws.amazon.com/training/intro_series/)]
 * Week 2: Concurrency and Replication Control
-* Week 3: Emerging Paradigms
+* Week 3: Emerging Paradigms [[Apache Storm](http://storm.apache.org/)]
 * Week 4: Classical Systems
 * Week 5: Real-Life Behaviors
 
