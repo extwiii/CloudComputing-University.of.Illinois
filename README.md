@@ -12,7 +12,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 1: Course Orientation and Classical Distributed Algorithms Continued [[AWS Training Videos](https://aws.amazon.com/training/intro_series/)]
 * Week 2: Concurrency and Replication Control
 * Week 3: Emerging Paradigms [[Apache Storm](http://storm.apache.org/)] [[Spark Streaming](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-259.pdf)] [[Pregel](http://dl.acm.org/citation.cfm?id=1807184)]
-* Week 4: Classical Systems
+* Week 4: Classical Systems [[TinyOS](www.tinyos.net)]
 * Week 5: Real-Life Behaviors
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
