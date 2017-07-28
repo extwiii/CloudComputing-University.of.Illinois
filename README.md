@@ -17,7 +17,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
 
-## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructur
+
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
