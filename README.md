@@ -16,6 +16,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 5: Real-Life Behaviors [[Availability Digest Report](http://www.availabilitydigest.com/public_articles/0704/data_center_outages-lessons.pdf)] [[AWS Outage Post-mortem](https://aws.amazon.com/message/65648/)] [[Facebook Outage Post-mortem](https://www.facebook.com/notes/facebook-engineering/more-details-on-todays-outage/431441338919)] [[The Planet Outage Post-mortem](http://www.availabilitydigest.com/public_articles/0309/planet_explosion.pdf)]
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
+* Week 1: Introduction to Cloud Computing 
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
