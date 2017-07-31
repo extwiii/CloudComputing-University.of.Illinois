@@ -17,6 +17,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
 * Week 1: Introduction to Cloud Computing 
+* Week 2: Foundations: Containers, Virtual Machine, JVM 
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
