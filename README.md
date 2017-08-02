@@ -20,6 +20,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Foundations: Containers, Virtual Machine, JVM 
 * Week 3: MaaS, PaaS, SaaS and Web Services 
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
+* Week 5:
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
