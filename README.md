@@ -20,6 +20,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Cloud Computing
   * Big Data
   * Cloudonmics
+  * Software Defined Architecture
 * Week 2: Foundations: Containers, Virtual Machine, JVM 
 * Week 3: MaaS, PaaS, SaaS and Web Services 
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
