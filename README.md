@@ -22,7 +22,8 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Cloudonmics
   * Software Defined Architecture
   * IaaS: Infrastructure as a Service
-* Week 2: Foundations: Containers, Virtual Machine, JVM 
+* Week 2: Foundations: Containers, Virtual Machine, JVM
+  * Virtualization
 * Week 3: MaaS, PaaS, SaaS and Web Services 
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
 
