@@ -29,6 +29,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * JVM
   * Kubernetes
   * OS Based Virtualization
+  * OpenStack
 * Week 3: MaaS, PaaS, SaaS and Web Services 
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
 
