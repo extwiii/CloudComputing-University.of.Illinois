@@ -39,6 +39,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * MaaS : Metal as a Service
   * FaaS: Function as a Service (server-less architecture)
   * MBaaS: Mobile Backend as a Service
+  * Load Balancing
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
