@@ -41,6 +41,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * MBaaS: Mobile Backend as a Service
   * Load Balancing
   * Server-less architecture
+  * Amazon lambda
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
