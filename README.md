@@ -47,7 +47,8 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * TEZ
   * HDFS
   * Ceph
-  * OpenStackk Swift
+  * OpenStack Swift
+  * Amazon S3
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
