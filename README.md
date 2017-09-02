@@ -50,6 +50,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * OpenStack Swift
   * Amazon S3
   * Amazon EBS
+  * Amazon instance Store
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
