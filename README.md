@@ -51,6 +51,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Amazon S3
   * Amazon EBS
   * Amazon instance Store
+  * EFS: Amazon Elastic File System
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 
