@@ -56,11 +56,12 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Dropbox Cloud API
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
-  * Week 1: Spark, Hortonworks, HDFS, CAP
-    * Cloud Computing Applications
-  * Week 2: Large Scale Data Storage
-  * Week 3: Streaming Systems
-  * Week 4: Graph Processing and Machine Learning
+* Week 1: Spark, Hortonworks, HDFS, CAP
+  * Cloud Computing Applications
+  * Spark
+* Week 2: Large Scale Data Storage
+* Week 3: Streaming Systems
+* Week 4: Graph Processing and Machine Learning
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
