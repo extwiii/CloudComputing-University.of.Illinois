@@ -62,6 +62,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Log Mining
   * Logistic Regression
   * RDD Fault tolerance
+  * Interactive Spark
 * Week 2: Large Scale Data Storage
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
