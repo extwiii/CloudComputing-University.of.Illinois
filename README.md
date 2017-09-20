@@ -58,7 +58,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 * Week 1: Spark, Hortonworks, HDFS, CAP
   * Cloud Computing Applications, Spark, Log Mining, Logistic Regression, RDD Fault tolerance, Interactive Spark, Spark Implementation
-  * Distributions of Cloud Application systems: Hortonworks
+  * Distributions of Cloud Application systems: Hortonworks, Cloudera, MapR.
 * Week 2: Large Scale Data Storage
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
