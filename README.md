@@ -61,6 +61,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Distributions of Cloud Application systems: Hortonworks, Cloudera, MapR.
   * HDFS distributed file system
   * Distributed Operating Systems in the form of YARN and MESOS
+  * MapReduce
 * Week 2: Large Scale Data Storage
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
