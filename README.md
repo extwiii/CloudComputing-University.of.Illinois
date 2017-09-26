@@ -63,6 +63,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Distributed Operating Systems in the form of YARN and MESOS
   * MapReduce: Motivation, Hadoop and Spark Programming Model, Spark Examples
 * Week 2: Large Scale Data Storage
+  * Large scale data stores
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
 
