@@ -66,6 +66,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Large scale data stores
   * Eventual consistency
   * ACID, BASE
+  * Zookeeper, Paxos
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
 
