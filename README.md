@@ -69,6 +69,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Zookeeper, Paxos
   * Distributed Key-Value Stores
   * NoSQL databases
+  * Distributed Publish/Subscribe Queues
 * Week 3: Streaming Systems
 * Week 4: Graph Processing and Machine Learning
 
