@@ -72,6 +72,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Distributed Publish/Subscribe Queues
 * Week 3: Streaming Systems
   * Storm: introduction, details, and internals, Thrift
+  * Spark Streaming
 * Week 4: Graph Processing and Machine Learning
 
 #### Taught by:
