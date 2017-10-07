@@ -74,6 +74,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Storm: introduction, details, and internals, Thrift
   * Spark Streaming
   * Lambda and Kappa Architectures
+  * Streaming Ecosystems
 * Week 4: Graph Processing and Machine Learning
 
 #### Taught by:
