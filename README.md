@@ -76,6 +76,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Lambda and Kappa Architectures
   * Streaming Ecosystems
 * Week 4: Graph Processing and Machine Learning
+  * Graph Processing: Introduction, Pregel
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
