@@ -77,6 +77,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Streaming Ecosystems
 * Week 4: Graph Processing and Machine Learning
   * Graph Processing: Introduction, Pregel, Giraph, Spark GraphX
+  * Machine Learning: Introduction,
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
