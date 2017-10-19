@@ -78,7 +78,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 4: Graph Processing and Machine Learning
   * Graph Processing: Introduction, Pregel, Giraph, Spark GraphX
   * Machine Learning: Introduction, Mahout and Spark K-means, Naive Bayes, fpm, Spark ML and MLlib
-  * Deep Learning: Introduction, Problems of Scaling Neural Nets to Big Data, Benefits of Layers,
+  * Deep Learning: Introduction, Problems of Scaling Neural Nets to Big Data, Benefits of Layers, Theano,
 
 #### Taught by:
 #### Reza Farivar - Data Engineering Manager at Capital One, Adjunct Research Assist. Prof. of Computer Science
