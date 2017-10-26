@@ -17,8 +17,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 
 ## Course 3 - Cloud Computing Applications 1: Cloud Systems and Infrastructure
 * Week 1: Introduction to Cloud Computing 
-  * Cloud Computing, Big Data, Cloudonmics
-  * Software Defined Architecture
+  * Cloud Computing, Big Data, Cloudonmics, Software Defined Architecture
   * IaaS: Infrastructure as a Service
 * Week 2: Foundations: Containers, Virtual Machine, JVM
   * Virtualization
