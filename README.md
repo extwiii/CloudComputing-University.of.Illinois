@@ -21,8 +21,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Foundations: Containers, Virtual Machine, JVM
   * Virtualization, Abstraction, Docker, JVM, Kubernetes, OS Based Virtualization, OpenStack
 * Week 3: MaaS, PaaS, SaaS and Web Services 
-  * JSON, REST, RPC
-  * PaaS: Platform as a Service
+  * JSON, REST, RPC, PaaS: Platform as a Service
   * SaaS: Software as a Service
   * MaaS : Metal as a Service
   * FaaS: Function as a Service (server-less architecture)
