@@ -23,8 +23,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 3: MaaS, PaaS, SaaS and Web Services 
   * JSON, REST, RPC, PaaS: Platform as a Service, SaaS: Software as a Service, MaaS : Metal as a Service, FaaS: Function as a Service (server-less architecture), MBaaS: Mobile Backend as a Service, Load Balancing, Server-less architecture, Amazon lambda
 * Week 4: Storage: Ceph, SWIFT, HDFS, Cloud Storage 
-  * Hive, TEZ, HDFS, Ceph, OpenStack Swift, Amazon S3, Amazon EBS, Amazon instance Store, EFS: Amazon Elastic File System, Amazon Glacier
-  * Dropbox Cloud API
+  * Hive, TEZ, HDFS, Ceph, OpenStack Swift, Amazon S3, Amazon EBS, Amazon instance Store, EFS: Amazon Elastic File System, Amazon Glacier, Dropbox Cloud API
 
 ## Course 4 - Cloud Computing Applications 2: Cloud Systems and Infrastructure
 * Week 1: Spark, Hortonworks, HDFS, CAP
