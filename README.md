@@ -30,8 +30,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
   * Cloud Computing Applications, Spark, Log Mining, Logistic Regression, RDD Fault tolerance, Interactive Spark, Spark Implementation. Distributions of Cloud Application systems: Hortonworks, Cloudera, MapR, HDFS distributed file system
   * Distributed Operating Systems in the form of YARN and MESOS, MapReduce: Motivation, Hadoop and Spark Programming Model, Spark Examples
 * Week 2: Large Scale Data Storage
-  * Large scale data stores, Eventual consistency, ACID, BASE, Zookeeper, Paxos, Distributed Key-Value Stores
-  * NoSQL databases
+  * Large scale data stores, Eventual consistency, ACID, BASE, Zookeeper, Paxos, Distributed Key-Value Stores, NoSQL databases
   * Distributed Publish/Subscribe Queues
 * Week 3: Streaming Systems
   * Storm: introduction, details, and internals, Thrift
