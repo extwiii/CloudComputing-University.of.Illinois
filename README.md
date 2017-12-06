@@ -32,8 +32,7 @@ Clouds, Distributed Systems, Networking. Learn about and build distributed and n
 * Week 2: Large Scale Data Storage
   * Large scale data stores, Eventual consistency, ACID, BASE, Zookeeper, Paxos, Distributed Key-Value Stores, NoSQL databases, Distributed Publish/Subscribe Queues
 * Week 3: Streaming Systems
-  * Storm: introduction, details, and internals, Thrift, Spark Streaming
-  * Lambda and Kappa Architectures
+  * Storm: introduction, details, and internals, Thrift, Spark Streaming, Lambda and Kappa Architectures
   * Streaming Ecosystems
 * Week 4: Graph Processing and Machine Learning
   * Graph Processing: Introduction, Pregel, Giraph, Spark GraphX
